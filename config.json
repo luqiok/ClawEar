@@ -1,0 +1,7 @@
+{
+  "email": {
+    "address": "your_email@example.com",
+    "auth_code": "your_authorization_code",
+    "imap_server": "auto"
+  }
+}
